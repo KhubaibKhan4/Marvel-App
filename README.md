@@ -9,6 +9,7 @@ Marvel App using Rest API
 <img src="https://github.com/KhubaibKhan4/Marvel-App/blob/master/Screenshot_20230421_024452.png" alt="screenshot 3" width="50%" height="50%">
 <img src="https://github.com/KhubaibKhan4/Marvel-App/blob/master/Screenshot_20230421_024502.png" alt="screenshot 4" width="50%" height="50%">
 <img src="https://github.com/KhubaibKhan4/Marvel-App/blob/master/Screenshot_20230421_024513.png" alt="Search" width="50%" height="50%">
+<img src="https://github.com/KhubaibKhan4/Marvel-App/blob/master/Screenshot_20230421_030253.png" alt="Search" width="50%" height="50%">
 
 <h2>Features</h2>
 <ul>
@@ -21,7 +22,7 @@ Marvel App using Rest API
 
 <p>To use this app, you will need to obtain a Marvel API key from the <a href="https://developer.marvel.com/">Marvel Developer Portal</a>. Once you have your key, add it to the <code>gradle.properties</code> file in the project root directory as follows:</p>
 
-<pre><code>MARVEL_API_KEY="your api key here"</code></pre>
+<pre><code>MARVEL_API_KEY="https://simplifiedcoding.net/demos/marvel/"</code></pre>
 
 <h2>Libraries</h2>
 
